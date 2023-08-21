@@ -29,7 +29,7 @@ Requirements for the database design:
 
 5. A guardian can be a mother, father, or other relatives.
 
-6. Each student can have atmost 2 suborganizations. There are & suborganizations and can have as many students members as possible.
+6. Each student can have atmost 2 suborganizations. There are 7 suborganizations and can have as many students members as possible.
 
    
 
